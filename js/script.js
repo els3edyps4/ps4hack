@@ -11,7 +11,7 @@ function isInArray(value, array) {
 }
 
 function updatePage(title, header, buttons) {
-  document.title = "HAKKURAIFU | PS4 Exploit Host";
+  document.title = "ELS3EDY | PS4 Exploit Host";
   document.getElementById("title").innerHTML = title;
   document.getElementById("header").innerHTML = header;
   document.getElementById("buttons").innerHTML = buttons;
@@ -19,7 +19,7 @@ function updatePage(title, header, buttons) {
 
 function resetPage() {
   history.pushState("", document.title, window.location.pathname + window.location.search);
-  updatePage("HAKKURAIFU | PS4 Exploit Host", "Choose Firmware", firmwares);
+  updatePage("ELS3EDY | PS4 Exploit Host", "Choose Firmware", firmwares);
 }
 
 function getFirmwares() {
