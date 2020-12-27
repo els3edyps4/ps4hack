@@ -139,7 +139,7 @@ h4 {
     padding: 10px 24px;
     text-align: center;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 25px;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
     cursor: pointer;
@@ -153,5 +153,5 @@ h4 {
 #Cache:hover {
     width: 20%;
     background-color: indianred;
-    font-size: 15px;
+    font-size: 25px;
 }
