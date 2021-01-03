@@ -70,29 +70,6 @@ exploits/FirmwareExploit/6.72/Linux/Linux.js
 exploits/FirmwareExploit/6.72/CE-30391-6_Fix/index.html
 exploits/FirmwareExploit/6.72/CE-30391-6_Fix/ce-30391-6_fix.js
 
-exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/index.html
-exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/int64.js
-exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/ps4.js
-exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/rop.js
-exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/utils.js
-exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/userland.js
-
-exploits/FirmwareExploit/7.02/PS4Debug/index.html
-exploits/FirmwareExploit/7.02/PS4Debug/int64.js
-exploits/FirmwareExploit/7.02/PS4Debug/ps4.js
-exploits/FirmwareExploit/7.02/PS4Debug/rop.js
-exploits/FirmwareExploit/7.02/PS4Debug/utils.js
-exploits/FirmwareExploit/7.02/PS4Debug/userland.js
-exploits/FirmwareExploit/7.02/PS4Debug/payload.js
-
-
-exploits/FirmwareExploit/7.02/int64.js
-exploits/FirmwareExploit/7.02/ps4.js
-exploits/FirmwareExploit/7.02/utils.js
-exploits/FirmwareExploit/7.02/702.js
-exploits/FirmwareExploit/7.02/jb702/c-code.js
-exploits/FirmwareExploit/7.02/mira702/c-code.js
-exploits/FirmwareExploit/7.02/mira702/mira.js
 exploits/FirmwareExploit/7.02/App2USB/index.html
 exploits/FirmwareExploit/7.02/App2USB/App2USB.js
 
@@ -104,8 +81,11 @@ exploits/FirmwareExploit/7.02/BinLoader/index.html
 exploits/FirmwareExploit/7.02/Disable-Updates/index.html
 exploits/FirmwareExploit/7.02/Disable-Updates/Disable-Updates.js
 
-exploits/FirmwareExploit/7.02/Dumper/index.html
-exploits/FirmwareExploit/7.02/Dumper/Dumper.js
+exploits/FirmwareExploit/7.02/App-Dumper/index.html
+exploits/FirmwareExploit/7.02/App-Dumper/Dumper.js
+
+exploits/FirmwareExploit/7.02/Module-Dumper/index.html
+exploits/FirmwareExploit/7.02/Module-Dumper/Dumper.js
 
 exploits/FirmwareExploit/7.02/Enable-Browser/index.html
 exploits/FirmwareExploit/7.02/Enable-Browser/Enable-Browser.js
@@ -118,6 +98,9 @@ exploits/FirmwareExploit/7.02/FTP/FTP.js
 
 exploits/FirmwareExploit/7.02/Mira/index.html
 exploits/FirmwareExploit/7.02/Mira/Mira.js
+
+exploits/FirmwareExploit/7.02/Mira-Beta/index.html
+exploits/FirmwareExploit/7.02/Mira-Beta/mirabeta.js
 
 exploits/FirmwareExploit/7.02/HEN/index.html
 exploits/FirmwareExploit/7.02/HEN/HEN.js
@@ -134,8 +117,11 @@ exploits/FirmwareExploit/7.02/Restore/Restore.js
 exploits/FirmwareExploit/7.02/todex/index.html
 exploits/FirmwareExploit/7.02/todex/todex.js
 
-exploits/FirmwareExploit/7.02/Linux/index.html
-exploits/FirmwareExploit/7.02/Linux/Linux.js
+exploits/FirmwareExploit/7.02/Linux-1GBVRAM/index.html
+exploits/FirmwareExploit/7.02/Linux-1GBVRAM/Linux1.js
+
+exploits/FirmwareExploit/7.02/Linux-3GBVRAM/index.html
+exploits/FirmwareExploit/7.02/Linux-3GBVRAM/Linux3.js
 
 exploits/FirmwareExploit/7.02/CE-30391-6_Fix/index.html
 exploits/FirmwareExploit/7.02/CE-30391-6_Fix/ce-30391-6_fix.js
@@ -163,6 +149,7 @@ exploits/FirmwareExploit/7.02/702.js
 exploits/FirmwareExploit/7.02/jb702/c-code.js
 exploits/FirmwareExploit/7.02/mira702/c-code.js
 exploits/FirmwareExploit/7.02/mira702/mira.js
+exploits/FirmwareExploit/7.02/mira702/miranew.js
 
 NETWORK:
 *
